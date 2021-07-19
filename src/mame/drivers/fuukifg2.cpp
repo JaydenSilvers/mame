@@ -17,8 +17,11 @@ Other       :   Mitsubishi M60067-0901FP 452100 (208pin PQFP, GA1)
 ---------------------------------------------------------------------------
 Year + Game
 ---------------------------------------------------------------------------
-95  Susume! Mile Smile / Go Go! Mile Smile
-96  Gyakuten!! Puzzle Bancho
+95  Susume! Mile Smile / Go! Go! Mile Smile
+96  Go! Go! Puzzle Bully / Gyakuten!! Puzzle Bancho
+
+There is an English version of Gyakuten!! Puzzle Bancho, but it is not dumped.
+
 ---------------------------------------------------------------------------
 
 Do NOT trust the Service Mode for dipswitch settings for Go Go! Mile Smile:
