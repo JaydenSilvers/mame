@@ -18,8 +18,9 @@ Year + Game
 ---------------------------------------------------------------------------
 98  Asura Blade - Sword of Dynasty (Japan)
 00  Asura Buster - Eternal Warriors (Japan)
+01  Asura Buster - Eternal Warriors (USA)
 
-English versions exist, but are not dumped
+English versions exist, but only the English version of Asura Buster is dumped.
 
 ---------------------------------------------------------------------------
 
